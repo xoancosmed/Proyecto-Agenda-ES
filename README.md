@@ -1,2 +1,5 @@
-# Proyecto-Agenda-ES
-Gestor de tareas que forma parte de la asignatura "Programación I"  (Ing. Telecomunicaciones) --- Castellano/Spanish
+# Proyecto Agenda (ES)
+
+Este proyecto se trata de un programa de terminal escrito en C. Consiste en un gestor de tareas que permite crear, ver, modificar y eliminar las tareas. Además, cada tarea a parte de tener campos como descripción, prioridad, estado, dependecias y fecha, entre otros, también permite establecer un propietario, que puede ser un usario en sí o un grupo.
+
+El proyecto "Agenda" pertenece a la asignatura "Programación I", de la carrera "Grado en Ingeniería de Tecnologías de Telecomunicación". Hay dos versiones, la "básica", que incluye todas las funcionalidades obligatorias, y la "mejorada", que incluye mejoras propuestas por los profesores tanto mejor propias.
